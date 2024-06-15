@@ -31,6 +31,6 @@ export const AppReact = () => {
   </>)
 }
 
-
+// apikey  y el link de los gifs
 // `https://api.giphy.com/v1/gifs/search?api_key=${apiKey}&q=${query}&limit=12`
 // 'qZn7T2znjjFwtA9cQATCjJXnx9cQc4VW'
